@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raw.githubusercontent.com/LeavingUniverse/leavinguniverse-sitemap/main/sitemap.xml
